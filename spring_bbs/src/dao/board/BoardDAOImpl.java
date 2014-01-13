@@ -2,8 +2,6 @@ package dao.board;
 
 import java.util.List;
 
-import org.springframework.stereotype.Repository;
-
 import spring.board.vo.BoardVo;
 
 /**
